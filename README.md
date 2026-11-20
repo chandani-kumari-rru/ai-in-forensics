@@ -15,27 +15,27 @@ Q) ai v/s human
       - Investigate how AI-generated face morphing can be misused in identity documents, KYC verification and impersonation. 
       - Study morph detection, facial inconsistencies and forensic authentication.
       - Examine challenges faced by investigators.
-    - [Deepfake Technology and Its Role in Cybercrime](#02-deepfake-technology-and-its-role-in-cybercrime)
-      > A Criminological and Digital Forensic Investigation
-      - AI-generated videos and manipulated identities.
-      - Political misinformation, impersonation, fraud and reputational damage.
-      - Deepfake identification and evidence authentication.
-    - [AI-Powered Honey Trapping and Romance Scams](#03-ai-powered-honey-trapping-and-romance-scams)
+    - [AI-Powered Honey Trapping and Romance Scams](#02-ai-powered-honey-trapping-and-romance-scams)
       > Emerging Patterns of Digital Deception and Victimization
       - AI-generated fake profiles and identities.
       - AI chatbots used to manipulate victims.
       - Emotional manipulation, financial exploitation and blackmail.
       - Digital evidence collection and investigation.
+    - [AI-Generated Non-Consensual Intimate Images](#03-ai-generated-non-consensual-intimate-images)
+      > Cyber Sexual Harassment, Victimization and Digital Forensic Challenges
+      - AI-generated explicit images without consent.
+      - Online sexual harassment, extortion and psychological victimization.
+      - Evidence preservation, attribution challenges and investigation.
     - [AI-Based Voice Cloning and Audio Impersonation](#04-ai-based-voice-cloning-and-audio-impersonation)
       > Emerging Threats to Cybersecurity and Forensic Authentication
       - Cloning voices of family members, officials and public figures.
       - Voice-based financial fraud and digital arrest scams.
       - Audio authenticity, voice comparison and forensic limitations.
-    - [AI-Generated Non-Consensual Intimate Images](#05-ai-generated-non-consensual-intimate-images)
-      > Cyber Sexual Harassment, Victimization and Digital Forensic Challenges
-      - AI-generated explicit images without consent.
-      - Online sexual harassment, extortion and psychological victimization.
-      - Evidence preservation, attribution challenges and investigation.
+    - [Deepfake Technology and Its Role in Cybercrime](#05-deepfake-technology-and-its-role-in-cybercrime)
+      > A Criminological and Digital Forensic Investigation
+      - AI-generated videos and manipulated identities.
+      - Political misinformation, impersonation, fraud and reputational damage.
+      - Deepfake identification and evidence authentication.
     - [Role of Generative AI in Modern Phishing and Social Engineering Attacks](#06-role-of-generative-ai-in-modern-phishing-and-social-engineering-attacks)
       - Investigate AI-generated phishing messages, personalized scams, impersonation and manipulation techniques.
     - [AI-Enabled Sextortion and Digital Blackmail](#07-ai-enabled-sextortion-and-digital-blackmail)
@@ -145,14 +145,7 @@ Q) Dark impact of ai
 
 
 
-
-
-
-
-### 02. Deepfake Technology and Its Role in Cybercrime
-  - n/a
-     <p align="center"><img width="765" height="415" alt="image" src="https://github.com/user-attachments/assets/e0d18725-1de7-423c-aade-c8e026f30dc5" /></p>
-### 03. AI-Powered Honey Trapping and Romance Scams
+### 02. AI-Powered Honey Trapping and Romance Scams
 `Proposed dissertation title`: "AI-Powered Honey Trapping: A Criminological Study of Digital Deception, Psychological Manipulation and Cyber Victimization"
     <p align="center"><img width="758" height="415" alt="image" src="https://github.com/user-attachments/assets/1feb1d31-5b08-4d0b-b881-b20f8bf99da4" /></p>
 
@@ -197,14 +190,7 @@ Q) Dark impact of ai
 
 `Expected dissertation outcome`: A criminological understanding of how AI changes the methods of online deception and how individuals become victims of AI-assisted honey trapping.
 
-
-
-
-
-### 04. AI-Based Voice Cloning and Audio Impersonation
-  - n/a
-    <p align="center"><img width="756" height="415" alt="image" src="https://github.com/user-attachments/assets/0a549d14-dbd8-4dfb-95d0-1139f92843ea" /></p>
-### 05. AI-Generated Non-Consensual Intimate Images
+### 03. AI-Generated Non-Consensual Intimate Images
 `Proposed dissertation title`: "AI-Generated Non-Consensual Intimate Imagery: A Study of Cyber Sexual Harassment, Victimization and Digital Forensic Challenges"
     <p align="center"><img width="732" height="415" alt="image" src="https://github.com/user-attachments/assets/685475f5-aa11-4e2d-999c-7517a1aa4558" /></p>
 
@@ -229,6 +215,14 @@ Q) Dark impact of ai
 `Important`: Do not create or circulate real or non-consensual intimate imagery for experimentation. Use published research, fictional examples and safe synthetic materials where necessary.
 
 
+
+### 04. AI-Based Voice Cloning and Audio Impersonation
+  - n/a
+    <p align="center"><img width="756" height="415" alt="image" src="https://github.com/user-attachments/assets/0a549d14-dbd8-4dfb-95d0-1139f92843ea" /></p>
+
+### 05. Deepfake Technology and Its Role in Cybercrime
+  - n/a
+     <p align="center"><img width="765" height="415" alt="image" src="https://github.com/user-attachments/assets/e0d18725-1de7-423c-aade-c8e026f30dc5" /></p>
 
 > Domain: Emerging AI-related cybercrime research
 ### 06. Role of Generative AI in Modern Phishing and Social Engineering Attacks
