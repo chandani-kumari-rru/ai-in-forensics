@@ -9,7 +9,7 @@ Q) ai v/s human
 ## 📑 Table of Contents
 
 - [ai in cyber forensic](#ai-in-cyber-forensic)
-  - Dissertation Workflow
+  - [Dissertation Workflow](#dissertation-workflow)
     - [AI-Driven Face Morphing and Identity Fraud](#01-ai-driven-face-morphing-and-identity-fraud)
       > A Study of Detection Techniques and Digital Forensic Challenges
       - Investigate how AI-generated face morphing can be misused in identity documents, KYC verification and impersonation. 
@@ -64,7 +64,14 @@ Q) Dark impact of ai
 - Cybercrime & Criminal Behavior – `Honey trapping`, `digital impersonation`, `blackmail`, `identity theft`, `online harassment` and `financial fraud`.
 
 ## Dissertation Topics
-<p align="center"><img width="780" height="317" alt="image" src="https://github.com/user-attachments/assets/beba3668-c0f9-4696-9271-3d84b5056f54" /></p>
+| Dissertation topic | Practical work | Criminology scope | Forensic scope |
+| :--- | :--- | :--- | :--- |
+| Face morphing | High | High | Very high |
+| AI honey trapping | Medium | Very high | High |
+| Deepfake image abuse | Medium | Very high | High |
+| Voice cloning | High | High | Very high |
+| AI sextortion | Medium | Very high | High |
+| AI phishing | High | High | High |
 
 `How to make your dissertation stand out`
 - I would encourage you to make your research more than a theoretical study.
@@ -243,9 +250,19 @@ My recommendation ranking:
 
 After Dissertation Topic Finalized
 `Index`
-<p align="center"><img width="661" height="345" alt="image" src="https://github.com/user-attachments/assets/73f35e65-7d93-419b-bff4-1b6f43d7b71c" /></p>
+| Chapter | Contents |
+| :--- | :--- |
+| Chapter 1 | Introduction, background and research problem |
+| Chapter 2 | Review of Literature and previous studies |
+| Chapter 3 | Research Gap, Aim, Objectives and Hypotheses/Research Questions |
+| Chapter 4 | Research Methodology and Sampling |
+| Chapter 5 | Data Collection and Experimental/Case Study Analysis |
+| Chapter 6 | Results, Statistical Analysis and Discussion |
+| Chapter 7 | Findings, Conclusion and Recommendations |
+| References | Research papers, books, judgments and official reports |
+| Appendices | Questionnaire, consent form, tables and supporting material |
 
-4-month research timeline
+`4-month research timeline`
 1. Month 1 – Research Planning
    - Finalise dissertation title.
    - Identify research gap.
