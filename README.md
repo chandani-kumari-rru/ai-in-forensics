@@ -37,7 +37,7 @@ Q) Dark impact of ai
 
 ## Recommended Dissertation Topics
 > Domain: AI-enabled cybercrime and digital exploitation
-### 01. AI-Driven Face Morphing and Identity Fraud
+### AI-Driven Face Morphing and Identity Fraud
   > A Study of Detection Techniques and Digital Forensic Challenges
   - Investigate how AI-generated face morphing can be misused in identity documents, KYC verification and impersonation. 
   - Study morph detection, facial inconsistencies and forensic authentication.
