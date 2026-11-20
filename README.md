@@ -63,25 +63,166 @@ Q) Dark impact of ai
 - Artificial Intelligence (AI) misuse – `Deepfakes`, `face morphing`, `voice cloning`, `AI-generated images & videos`.
 - Cybercrime & Criminal Behavior – `Honey trapping`, `digital impersonation`, `blackmail`, `identity theft`, `online harassment` and `financial fraud`.
 
-## Recommended Dissertation Topics
+## Dissertation Topics
+<p align="center"><img width="780" height="317" alt="image" src="https://github.com/user-attachments/assets/beba3668-c0f9-4696-9271-3d84b5056f54" /></p>
 
+`How to make your dissertation stand out`
+- I would encourage you to make your research more than a theoretical study.
+- Try to include at least one of these research components:
+  - Experimental research: Compare genuine and AI-manipulated images, audio or videos.
+  - Case study research: Analyse documented AI-assisted cybercrime incidents.
+  - Survey-based research: Assess public awareness, victimization and perceptions.
+  - Forensic research: Examine metadata, file hashes, image artefacts and evidence authentication.
+  - Legal research: Examine the applicability of Indian cybercrime laws and investigative procedures.
+- For any digital forensic component, maintain a proper chain of custody, chronological examination records, hash verification and a clear distinction between direct observations and investigative inferences.
 
+My recommendation ranking:
+1. Face Morphing and Identity Fraud – Best combination of experimental work and digital forensics.
+2. AI-Powered Honey Trapping – Best for criminological research, victimology and cybercrime behaviour.
+3. AI-Generated Non-Consensual Intimate Images – Strong social relevance and scope for legal and forensic research.
 
 ### 01. AI-Driven Face Morphing and Identity Fraud
-
+`Proposed dissertation title`: "AI-Driven Face Morphing and Identity Fraud: An Experimental Study of Detection Techniques and Digital Forensic Challenges"
      <p align="center"><img width="762" height="415" alt="image" src="https://github.com/user-attachments/assets/f91d2482-0c0b-414f-99b0-1e971fbff607" /></p>
+`Research objectives`
+1. To understand AI-based face morphing and its applications in identity manipulation.
+2. To examine how face morphing can facilitate identity fraud and impersonation.
+3. To evaluate techniques used to identify manipulated facial images.
+4. To study the challenges of face morphing detection in digital forensic investigations.
+5. To recommend preventive and investigative measures.
+
+`Complete research workflow`
+1. Phase 1 – Literature Review
+   Study:
+   - Face morphing and face swapping.
+   - Generative Adversarial Networks (GANs).
+   - Deepfake technology.
+   - Facial biometric authentication.
+   - Previous face morphing fraud cases.
+2. Phase 2 – Dataset Collection
+   Collect:
+   - Genuine facial images with informed consent.
+   - Publicly available research datasets of morphed faces.
+   - AI-generated or manipulated samples created in a controlled environment.
+   Maintain separate genuine and manipulated image groups.
+3. Phase 3 – Experimental Analysis
+   Examine:
+   - Facial landmarks and geometry.
+   - Eye, nose and mouth alignment.
+   - Texture inconsistencies.
+   - Image artefacts.
+   - Compression and metadata differences.
+   Compare genuine and manipulated images.
+4. Phase 4 – Forensic Examination
+   Potential tools:
+   - OpenCV – image processing.
+   - Python – experimental analysis.
+   - FaceForensics++ – research dataset.
+   - ExifTool – metadata examination.
+   - ImageMagick – image comparison.
+   Record observations, hashes and examination procedures.
+5. Phase 5 – Result and Statistical Analysis
+   Compare detection results using:
+   - Accuracy.
+   - Precision.
+   - Recall.
+   - False positive rate.
+   - False negative rate.
+   Discuss limitations and the possibility of false conclusions.
+6. Phase 6 – Criminological Interpretation
+   Examine how face morphing can contribute to identity theft, document fraud, impersonation and financial crime.
+7. Phase 7 – Conclusion and Recommendations
+   Suggest improved identity verification, forensic examination procedures and preventive policies.
+
+`Expected dissertation outcome`: An experimental comparison of genuine and morphed facial images, with an evaluation of detection methods and their forensic limitations.
+
+
+
+
+
+
+
 ### 02. Deepfake Technology and Its Role in Cybercrime
   - n/a
      <p align="center"><img width="765" height="415" alt="image" src="https://github.com/user-attachments/assets/e0d18725-1de7-423c-aade-c8e026f30dc5" /></p>
 ### 03. AI-Powered Honey Trapping and Romance Scams
-  - n/a
+`Proposed dissertation title`: "AI-Powered Honey Trapping: A Criminological Study of Digital Deception, Psychological Manipulation and Cyber Victimization"
     <p align="center"><img width="758" height="415" alt="image" src="https://github.com/user-attachments/assets/1feb1d31-5b08-4d0b-b881-b20f8bf99da4" /></p>
+
+`Research objectives`
+1. To investigate the role of AI in modern honey-trapping activities.
+2. To understand how AI-generated identities and chatbots are used to deceive victims.
+3. To examine psychological manipulation and behavioural patterns.
+4. To identify financial, emotional and reputational consequences.
+5. To analyse digital evidence and investigative challenges.
+
+`Complete research workflow`
+1. Phase 1 – Literature Review
+   Study online romance scams, traditional honey trapping, social engineering, AI-generated profiles and cyber-enabled deception.
+2. Phase 2 – Case Study Collection
+   Collect publicly documented cases from:
+   - Cybercrime reporting sources.
+   - Court judgments.
+   - Police advisories.
+   - Published research papers.
+   - Verified news reports.
+   Categorise cases according to the modus operandi.
+3. Phase 3 – Questionnaire Development
+   Develop a questionnaire covering:
+   - Awareness of AI-generated fake profiles.
+   - Experience with online deception.
+   - Trust in online identities.
+   - Awareness of romance scams.
+   - Reporting behaviour and victim support.
+4. Phase 4 – Primary Data Collection
+   Conduct an anonymous survey with consenting adult participants. If feasible, interview cybercrime professionals or investigators.
+5. Phase 5 – Modus Operandi Analysis
+   Categorise patterns such as:
+   - Fake identity creation.
+   - AI-generated photographs.
+   - Automated emotional conversations.
+   - Financial manipulation.
+   - Threats and blackmail.
+6. Phase 6 – Statistical and Criminological Analysis
+   Examine awareness levels, victimization patterns, demographic differences where ethically justified, and reporting behaviour.
+7. Phase 7 – Conclusion
+   Develop recommendations for prevention, public awareness, victim support and cybercrime investigation.
+
+`Expected dissertation outcome`: A criminological understanding of how AI changes the methods of online deception and how individuals become victims of AI-assisted honey trapping.
+
+
+
+
+
 ### 04. AI-Based Voice Cloning and Audio Impersonation
   - n/a
     <p align="center"><img width="756" height="415" alt="image" src="https://github.com/user-attachments/assets/0a549d14-dbd8-4dfb-95d0-1139f92843ea" /></p>
 ### 05. AI-Generated Non-Consensual Intimate Images
-  - n/a
+`Proposed dissertation title`: "AI-Generated Non-Consensual Intimate Imagery: A Study of Cyber Sexual Harassment, Victimization and Digital Forensic Challenges"
     <p align="center"><img width="732" height="415" alt="image" src="https://github.com/user-attachments/assets/685475f5-aa11-4e2d-999c-7517a1aa4558" /></p>
+
+`Research objectives`
+1. To understand the misuse of generative AI for creating non-consensual intimate images.
+2. To examine its relationship with cyber sexual harassment and online exploitation.
+3. To study the psychological, social and reputational impact on victims.
+4. To investigate challenges in identifying perpetrators and preserving digital evidence.
+5. To examine legal and investigative responses.
+
+`Complete research workflow`
+1. Literature review on deepfake image abuse, image-based sexual abuse and cyber victimization.
+2. Study publicly documented incidents and relevant court judgments.
+3. Develop an anonymous questionnaire about awareness, perceptions and reporting behaviour.
+4. Conduct interviews with consenting professionals, where permitted.
+5. Study the forensic evidence trail: original files, hashes, metadata, timestamps, URLs and communication records.
+6. Analyse challenges involving anonymity, content removal, attribution and evidence preservation.
+7. Evaluate prevention, victim support and investigative recommendations.
+
+`Expected dissertation outcome`: A research-based framework explaining the criminological impact of AI-generated image abuse and the difficulties of digital evidence examination.
+
+`Important`: Do not create or circulate real or non-consensual intimate imagery for experimentation. Use published research, fictional examples and safe synthetic materials where necessary.
+
+
+
 > Domain: Emerging AI-related cybercrime research
 ### 06. Role of Generative AI in Modern Phishing and Social Engineering Attacks
   - n/a
@@ -98,6 +239,34 @@ Q) Dark impact of ai
 ### 10. Challenges in Authenticating AI-Generated Digital Evidence in Cybercrime Investigations
   - n/a
     <p align="center"><img width="757" height="415" alt="image" src="https://github.com/user-attachments/assets/bd35ff1c-d5f3-40d2-8534-ce0c60036c9f" /></p>
+
+
+After Dissertation Topic Finalized
+`Index`
+<p align="center"><img width="661" height="345" alt="image" src="https://github.com/user-attachments/assets/73f35e65-7d93-419b-bff4-1b6f43d7b71c" /></p>
+
+4-month research timeline
+1. Month 1 – Research Planning
+   - Finalise dissertation title.
+   - Identify research gap.
+   - Review 20–30 relevant research papers.
+   - Prepare objectives and research questions.
+   - Submit research proposal.
+2. Month 2 – Methodology and Data Collection
+   - Prepare questionnaires or experimental protocols.
+   - Obtain required institutional and ethical approvals.
+   - Collect primary and secondary data.
+   - Organise research datasets.
+3. Month 3 – Investigation and Analysis
+   - Conduct forensic experiments or case studies.
+   - Analyse collected data.
+   - Prepare tables, graphs and findings.
+   - Interpret results.
+4. Month 4 – Dissertation Preparation
+   - Complete all dissertation chapters.
+   - Prepare conclusion and recommendations.
+   - Verify references and originality.
+   - Proofread and prepare presentation/viva.
 
 
 ---
