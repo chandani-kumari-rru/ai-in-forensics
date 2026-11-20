@@ -9,6 +9,16 @@ Q) ai v/s human
 ## 📑 Table of Contents
 
 - [ai-in-cyber-forensic](#ai-in-cyber-forensic)
+  - [AI-Driven Face Morphing and Identity Fraud](#ai-driven-face-morphing-and-identity-fraud)
+  - [Deepfake Technology and Its Role in Cybercrime](#deepfake-technology-and-its-role-in-cybercrime)
+  - [AI-Powered Honey Trapping and Romance Scams](#ai-powered-honey-trapping-and-romance-scams)
+  - [AI-Based Voice Cloning and Audio Impersonation](#ai-based-voice-cloning-and-audio-impersonation)
+  - [AI-Generated Non-Consensual Intimate Images](#ai-generated-non-consensual-intimate-images)
+  - [Role of Generative AI in Modern Phishing and Social Engineering Attacks](#role-of-generative-ai-in-modern-phishing-and-social-engineering-attacks)
+  - [AI-Enabled Sextortion and Digital Blackmail](#ai-enabled-sextortion-and-digital-blackmail)
+  - [Dark Side of AI-Based Facial Recognition](#dark-side-of-ai-based-facial-recognition)
+  - [Misuse of Generative AI in Digital Recruitment Fraud and Online Identity Deception](#misuse-of-generative-ai-in-digital-recruitment-fraud-and-online-identity-deception)
+  - [Challenges in Authenticating AI-Generated Digital Evidence in Cybercrime Investigations](#challenges-in-authenticating-ai-generated-digital-evidence-in-cybercrime-investigations)
 - [ai in document examination](#ai-in-document-examination)
 - [ai in forensic biology](#ai-in-forensic-biology)
 - [ai in forensic chemistry](#ai-in-forensic-chemistry)
