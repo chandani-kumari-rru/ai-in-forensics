@@ -16,7 +16,7 @@ Q) ai v/s human
       - Study morph detection, facial inconsistencies and forensic authentication.
       - Examine challenges faced by investigators.
     - [AI-Powered Honey Trapping and Romance Scams](#02-ai-powered-honey-trapping-and-romance-scams)
-      > Emerging Patterns of Digital Deception and Victimization
+      > for full-fill fantasy, Emerging Patterns of Digital Deception and Victimization
       - AI-generated fake profiles and identities.
       - AI chatbots used to manipulate victims.
       - Emotional manipulation, financial exploitation and blackmail.
