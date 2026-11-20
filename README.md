@@ -19,7 +19,7 @@ Q) ai v/s human
     - [AI-Enabled Sextortion and Digital Blackmail](#07-ai-enabled-sextortion-and-digital-blackmail)
     - [Dark Side of AI-Based Facial Recognition](#08-dark-side-of-ai-based-facial-recognition)
     - [Misuse of Generative AI in Digital Recruitment Fraud and Online Identity Deception](#09-misuse-of-generative-ai-in-digital-recruitment-fraud-and-online-identity-deception)
-    - [Challenges in Authenticating AI-Generated Digital Evidence in Cybercrime Investigations](#10challenges-in-authenticating-ai-generated-digital-evidence-in-cybercrime-investigations)
+    - [Challenges in Authenticating AI-Generated Digital Evidence in Cybercrime Investigations](#10-challenges-in-authenticating-ai-generated-digital-evidence-in-cybercrime-investigations)
 - [ai in document examination](#ai-in-document-examination)
 - [ai in forensic biology](#ai-in-forensic-biology)
 - [ai in forensic chemistry](#ai-in-forensic-chemistry)
