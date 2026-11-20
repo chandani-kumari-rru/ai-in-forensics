@@ -83,7 +83,7 @@ Q) Dark impact of ai
   - Legal research: Examine the applicability of Indian cybercrime laws and investigative procedures.
 - For any digital forensic component, maintain a proper chain of custody, chronological examination records, hash verification and a clear distinction between direct observations and investigative inferences.
 
-My recommendation ranking:
+`My recommendation ranking`
 1. Face Morphing and Identity Fraud – Best combination of experimental work and digital forensics.
 2. AI-Powered Honey Trapping – Best for criminological research, victimology and cybercrime behaviour.
 3. AI-Generated Non-Consensual Intimate Images – Strong social relevance and scope for legal and forensic research.
