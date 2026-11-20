@@ -192,7 +192,7 @@ Q) Dark impact of ai
 
 ### 03. AI-Generated Non-Consensual Intimate Images
 `Proposed dissertation title`: "AI-Generated Non-Consensual Intimate Imagery: A Study of Cyber Sexual Harassment, Victimization and Digital Forensic Challenges"
-    <p align="center"><img width="732" height="415" alt="image" src="https://github.com/user-attachments/assets/685475f5-aa11-4e2d-999c-7517a1aa4558" /></p>
+    <p align="center"><img width="717" height="415" alt="image" src="https://github.com/user-attachments/assets/dee1c280-7c73-4572-8136-4adbf4d5c814" /></p>
 
 `Research objectives`
 1. To understand the misuse of generative AI for creating non-consensual intimate images.
