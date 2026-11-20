@@ -100,9 +100,9 @@ Q) Dark impact of ai
 
 ---
 ## ai in forensic psychology
-> Lie Detection (tools accredited by NABL)
+> Lie Detection (lab tools accredited by NABL)
 - it is specialized division of forensic. In which covers area like `psychology behavior analysis`.
-- in this devision job opening for position like `forensic psychology` in academic, law enforcement & laboratories.
+- in this division job opening for position like `forensic psychology` in academic, law enforcement & laboratories.
 
 
 
