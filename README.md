@@ -9,7 +9,7 @@ Q) ai v/s human
 ## 📑 Table of Contents
 
 - [ai in cyber forensic](#ai-in-cyber-forensic)
-  - [Dissertation Workflow](#dissertation-workflow)
+  - [Dissertation Topics](#dissertation-topics)
     - [AI-Driven Face Morphing and Identity Fraud](#01-ai-driven-face-morphing-and-identity-fraud)
       > A Study of Detection Techniques and Digital Forensic Challenges
       - Investigate how AI-generated face morphing can be misused in identity documents, KYC verification and impersonation. 
