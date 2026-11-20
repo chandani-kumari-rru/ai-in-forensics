@@ -10,7 +10,7 @@ Q) ai v/s human
 
 - [ai in cyber forensic](#ai-in-cyber-forensic)
   - Dissertation Workflow
-    - [AI-Driven Face Morphing and Identity Fraud](#ai-driven-face-morphing-and-identity-fraud)
+    - [AI-Driven Face Morphing and Identity Fraud](#01-ai-driven-face-morphing-and-identity-fraud)
     - [Deepfake Technology and Its Role in Cybercrime](#deepfake-technology-and-its-role-in-cybercrime)
     - [AI-Powered Honey Trapping and Romance Scams](#ai-powered-honey-trapping-and-romance-scams)
     - [AI-Based Voice Cloning and Audio Impersonation](#ai-based-voice-cloning-and-audio-impersonation)
@@ -37,13 +37,13 @@ Q) Dark impact of ai
 
 ## Recommended Dissertation Topics
 > Domain: AI-enabled cybercrime and digital exploitation
-### AI-Driven Face Morphing and Identity Fraud
+### 01. AI-Driven Face Morphing and Identity Fraud
   > A Study of Detection Techniques and Digital Forensic Challenges
   - Investigate how AI-generated face morphing can be misused in identity documents, KYC verification and impersonation. 
   - Study morph detection, facial inconsistencies and forensic authentication.
   - Examine challenges faced by investigators.
      <p align="center"><img width="762" height="415" alt="image" src="https://github.com/user-attachments/assets/f91d2482-0c0b-414f-99b0-1e971fbff607" /></p>
-### 02. `Deepfake Technology and Its Role in Cybercrime`: A Criminological and Digital Forensic Investigation
+### 02. Deepfake Technology and Its Role in Cybercrime: A Criminological and Digital Forensic Investigation
   - AI-generated videos and manipulated identities.
   - Political misinformation, impersonation, fraud and reputational damage.
   - Deepfake identification and evidence authentication.
