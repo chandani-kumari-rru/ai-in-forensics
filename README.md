@@ -1,16 +1,28 @@
 # ai-in-forensics
 - Digital Forensics & Criminal Investigation - `Detection`, `identification`, `preservation` and forensic examination of `AI-generated digital evidence`.
 
-
-## ai v/s human
+Q) ai v/s human
 > Q) will ai replace human or not?
 
-## Dark impact of ai
+
+---
+## 📑 Table of Contents
+
+- [ai-in-cyber-forensic](#ai-in-cyber-foresic)
+- [ai in document examination](#ai-in-document-examination)
+- [ai in forensic biology](#ai-in-forensic-biology)
+- [ai in forensic chemistry](#ai-in-forensic-chemistry)
+- [ai in forensic physics](#ai-in-forensic-physics)
+- [ai in forensic psychology](#ai-in-forensic-psychology)
+--- 
+
+## ai in cyber forensic
+- it is specialized division of forensic. In which covers area like `mobile/computer forensics`, `multimedia forensics` & `iot forensics`.
+- in this division job opening for position like `forensic analyst`, `cyber/digital forensic` in academic, law enforcement & laboratories.
+
+Q) Dark impact of ai
 - Artificial Intelligence (AI) misuse – `Deepfakes`, `face morphing`, `voice cloning`, `AI-generated images & videos`.
-- Cybercrime & Criminal Behaviour – `Honey trapping`, `digital impersonation`, `blackmail`, `identity theft`, `online harassment` and `financial fraud`.
-
-
-
+- Cybercrime & Criminal Behavior – `Honey trapping`, `digital impersonation`, `blackmail`, `identity theft`, `online harassment` and `financial fraud`.
 
 ## Recommended Dissertation Topics
 > Domain: AI-enabled cybercrime and digital exploitation
@@ -58,22 +70,39 @@
     <p align="center"><img width="757" height="415" alt="image" src="https://github.com/user-attachments/assets/bd35ff1c-d5f3-40d2-8534-ce0c60036c9f" /></p>
 
 
+---
+## ai in document examination
+> handwriting, fingerprint, 
+- it is specialized division of forensic. In which covers area like `fingerprint`, `handwriting` & `financial document`.
+- in this division job opening for position like `fingerprint examiner` in academic, law enforcement & laboratories.
 
 
+---
+## ai in forensic biology
+> serology, dna
+- it is specialized division of forensic. In which covers area like `dna sample analysis`.
+- in this division job opening for position like `forensic biology` in academic, law enforcement & laboratories.
 
 
+---
+## ai in forensic chemistry
+> toxicology
+- it is specialized division of forensic. In which covers area like `drug` & `poison`.
+- in this division job opening for position like `forensic toxicology` in academic, law enforcement & laboratories.
 
 
+---
+## ai in forensic physics
+> ballistics
+- it is specialized division of forensic. In which covers area like `gun shot`.
+- in this division job opening for position like `forensic physics` in academic, law enforcement & laboratories.
 
 
-
-
-
-
-
-
-
-
+---
+## ai in forensic psychology
+> Lie Detection (tools accredited by NABL)
+- it is specialized division of forensic. In which covers area like `psychology behavior analysis`.
+- in this devision job opening for position like `forensic psychology` in academic, law enforcement & laboratories.
 
 
 
