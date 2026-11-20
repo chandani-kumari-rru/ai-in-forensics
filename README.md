@@ -8,7 +8,7 @@ Q) ai v/s human
 ---
 ## 📑 Table of Contents
 
-- [ai-in-cyber-forensic](#ai-in-cyber-foresic)
+- [ai-in-cyber-forensic](#ai-in-cyber-forensic)
 - [ai in document examination](#ai-in-document-examination)
 - [ai in forensic biology](#ai-in-forensic-biology)
 - [ai in forensic chemistry](#ai-in-forensic-chemistry)
